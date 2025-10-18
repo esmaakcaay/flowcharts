@@ -5,7 +5,7 @@ Dosyalar **Draw.io (.drawio)** formatında hazırlanmıştır.
 
 ## 📂 İçerik
 - Üç sayının en büyüğünü bulan algoritma  
-- Üçgenin türünü belirleme  
+- Üçgenin türünü belirleme 
 - Sayının tek/çift olduğunu bulma  
 
 ## 💻 Kullanım
